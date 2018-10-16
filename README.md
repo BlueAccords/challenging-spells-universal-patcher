@@ -7,22 +7,23 @@ Created using [ZEdit](https://github.com/z-edit/zedit) and the [ZEdit Unified Pa
 
 Credits to tjhm4 for creating the original mod and mator for creating zedit.
 
+**Warning:** zEdit currently installs from archive incorrectly.
+
 ## Instructions
 1. Download the latest version of the patcher archive from the `Releases` tab on this page
 2. Download zEdit from the `Releases` Tab [here](https://github.com/z-edit/zedit)
     - Use the portable version **OR** the setup version
 3. (Optional) Add zEdit as a tool to your mod manager/mod organizer
-4. Start zEdit, select your version of Skyrim(Legendary or Special Edition)
-5. Deselect all of the esps/esms in the next screen
-7. On the top right corner click on the icon with the boxes that says `Manage Extensions`
-8. Click on the `Install Module` button
-9. Select the archive `challengingSpellsUniversalPatcher_v100.zip` you downloaded in `Step 1` and click `Open`
-10. Click on the `Restart` button for zEdit to restart it.
-11. zEdit should be relaunched, choose your game version again.
-12. Select all the esps/esms who's spell tomes you want to convert to the challenging spells mod system
-13. Right click in the left pane and click on `Manage Patchers`
-14. (Optional) Click on `Challenging spells Patcher settings` on the left hand pane
+4. On the top right corner click on the icon with the boxes that says `Manage Extensions`
+5. Click on the `Install Module` button
+6. Select the archive `challengingSpellsUniversalPatcher_v1.0.zip` you downloaded in `Step 1` and click `Open`
+7. Click on the `Restart Now` button for zEdit to restart it.
+8. zEdit should be relaunched, choose your game version.
+9. Select all the esps/esms who's spell tomes you want to convert to the challenging spells mod system
+    - make sure to **INCLUDE challenging_spell_learning.esp**
+10. Right click in the left pane and click on `Manage Patchers`
+11. (Optional) Click on `Challenging spells Patcher settings` on the left hand pane
     - Here you can choose to print the patched spell tomes/skipped spell tomes to the log
-14. `Challenging Spells Universal Patcher` should be visible, click on the `Build` button next to it.
-15. If successful, then you can now close zEdit and save the plugin changes.
-16. DONE!
+12. `Challenging Spells Universal Patcher` should be visible, click on the `Build` button next to it.
+13. If successful, then you can now close zEdit and save the plugin changes.
+14. DONE!
