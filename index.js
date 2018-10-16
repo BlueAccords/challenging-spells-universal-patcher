@@ -17,7 +17,7 @@ registerPatcher({
     gameModes: [xelib.gmTES5, xelib.gmSSE],
     settings: {
         // The label is what gets displayed as the settings tab's label
-        label: 'Challenging spells conversion patcher',
+        label: 'Challenging Spells Patcher Settings',
         // if you set hide to true the settings tab will not be displayed
         hide: false,
         templateUrl: `${patcherUrl}/partials/settings.html`,
