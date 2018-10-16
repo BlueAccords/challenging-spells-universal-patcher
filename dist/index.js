@@ -52,8 +52,6 @@ registerPatcher({
     },
     execute: (patchFile, helpers, settings, locals) => ({
         initialize: function() {
-            helpers.logMessage(`settings inside of iniitialize function ${settings.showPatchedSpellTomes}`);
-
             let fileHandle = xelib.FileByName('challenging_spell_learning.esp');
 
             // get list of all books by editorID
@@ -100,7 +98,7 @@ registerPatcher({
             }
         }],
         finalize: function() {
-            helpers.logMessage(`show patched spelltomes ${settings.showPatchedSpellTomes}`)
+            
             if(settings.showPatchedSpellTomes && locals.patched_books.length > 0) {
                 helpers.logMessage('============================================');
                 helpers.logMessage('START of PATCHED Spell Tomes');
