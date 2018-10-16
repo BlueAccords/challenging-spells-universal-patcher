@@ -1,11 +1,11 @@
 {
-  "name": "zedit-example-patcher",
-  "productName": "Mator's Example Patcher",
-  "description": "An example of a patcher built with zedit-unified-patching-framework.",
-  "version": "1.3.0",
-  "author": "Mator",
-  "copyright": "© 2017, Mator",
-  "repository": "https://github.com/matortheeternal/zedit-example-patcher",
+  "name": "challenging-spells-zedit-patcher",
+  "productName": "Challenging Spells Universal Patcher",
+  "description": "Patcher built to generate a patch to convert all mod-added spell tomes to challenging spells learning method.",
+  "version": "1.0.0",
+  "author": "BlueAccords",
+  "copyright": "2018, BlueAccords",
+  "repository": "https://github.com/BlueAccords/challenging-spells-universal-patcher",
   "license": "MIT",
   "scripts": {
     "build": "gulp build",
