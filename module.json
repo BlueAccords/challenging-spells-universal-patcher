@@ -1,0 +1,12 @@
+{
+  "id": "challengingSpellsUniversalPatcher",
+  "name": "Challenging Spells Universal Patcher",
+  "author": "Nari",
+  "version": "1.0",
+  "released": "10/14/2018",
+  "updated": "10/14/2018",
+  "description": "Patch to convert all spelltomes in a modlist to one that uses the challenging spell learning system.",
+  "requires": ["unifiedPatchingFramework"],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
