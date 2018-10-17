@@ -7,7 +7,7 @@ Created using [ZEdit](https://github.com/z-edit/zedit) and the [ZEdit Unified Pa
 
 Credits to tjhm4 for creating the original mod and mator for creating zedit.
 
-**Warning:** zEdit currently installs from archive incorrectly. The instructions crossed out below only apply once archive installation is fixed for zEdit.
+**Warning:** As of zEdit version 0.4.3 zEdit installs modules from archives incorrectly. The instructions crossed out below only apply once archive installation is fixed for zEdit. As a substitute the instructions will show you how to install the module manually into zEdit.
 
 ## Instructions
 1. Download the latest version of the patcher archive from the `Releases` tab on this page
